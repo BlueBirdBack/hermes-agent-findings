@@ -48,3 +48,7 @@ Hermes Agent is best understood as one durable agent runtime with:
 
 These notes and wiki pages were produced from a full read of the Hermes Agent repository at:
 - `https://github.com/NousResearch/hermes-agent`
+
+## Credits
+
+Compiled by Nova ✨ (Hermes)
